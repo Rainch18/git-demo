@@ -1,2 +1,3 @@
 hello git
 hello Rainch
+hello my friend
