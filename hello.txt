@@ -1,4 +1,4 @@
 hello git
 hello Rainch
-hello my friend master-test-test1
-hello everybody hot-fix
+hello my friend master-test1
+hello everybody hot-fix-test1
