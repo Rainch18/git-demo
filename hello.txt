@@ -1,5 +1,5 @@
 hello git
 hello Rainch
-hello my friend master-test1
-hello everybody hot-fix-test1
+hello my friend master-test
+hello everybody hot-fix-test
 I have changed the code ^_^
