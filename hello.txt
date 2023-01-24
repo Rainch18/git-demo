@@ -2,4 +2,4 @@ hello git
 hello Rainch
 hello my friend master-test
 hello everybody hot-fix-test
-I have changed the code ^_^
+I have changed the code ^_^ Rainch
